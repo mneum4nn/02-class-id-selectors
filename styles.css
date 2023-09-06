@@ -1,0 +1,14 @@
+p {
+    background-color:lightpink;
+    font-family:'Verdana','DejaVu Sans', sans-serif;
+}
+.smallfont{
+    font-size:24px;
+}
+#bold{
+    font-weight:600;
+}
+#second{
+    font-size:36px;
+    color:blue;
+}
